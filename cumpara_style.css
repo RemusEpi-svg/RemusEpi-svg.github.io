@@ -1,7 +1,7 @@
 body , html {
 	width: 100%;
 	height: 100%;
-	background-image: url(poza_index.png);
+	background-image: url(index.jpg);
 }
 
 .container {
@@ -12,7 +12,7 @@ body , html {
 }
 
 h1 {
-	color: rgba(52, 23, 77, 1);	
+	color: #58b690;	
 	border: 3px solid rgba(52, 23, 77, 1);
 	position: static;
 	width: 100%;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h1:hover{
-	color: #58b690;
+	color: #FF02D2F0;
 	cursor: pointer;
 }
 
