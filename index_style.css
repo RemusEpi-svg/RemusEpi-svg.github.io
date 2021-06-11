@@ -18,8 +18,7 @@ header {
 p {
 	color: #58b690;
 	background-color: rgba(4, 122, 30, 0.2);
-	font-family:garamond;
-	font-size:180%;
+	font-size:200%;
 	text-align:center;
 	cursor: pointer;
 	box-shadow: 2px 5px 8px #888888;
@@ -37,12 +36,20 @@ h1 {
 	width: 100%;
 	box-shadow: 4px 4px 5px #888888;
 	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+
+h1:hover{
+	color: #FF02D2F0;
+	cursor: pointer;
 }
 
 li {
 	color: #58b690;	
 	list-style: none;
 	display: inline-block;
+	font-size: 130%;	
+
 }
 img {
 	height: 250px;
